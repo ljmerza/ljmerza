@@ -1,7 +1,7 @@
 ```
-Languages: JavaScript/TypeScript, Python, Go, C#, SQL, Bash
-Frontend: React, Redux, GraphQL, Angular, Storybook
-Backend:  Flask, FastAPI, Node, Express, .NET, PostgreSQL, Redis, Elasticsearch, Kafka
-Testing/Development: Jest, Playwright, Pytest, Git, Vite, Webpack, Rollup, Swagger (OpenAPI)
-Infrastructure: Linux, Docker, Amazon Web Services, Google Cloud Platform, GitHub Actions (CI/CD), Kubernetes, Terraform
+Languages: TypeScript/JavaScript, Python, Go, SQL, HTML, CSS
+Frontend: React, Redux, Angular, Tailwind, Storybook, Figma
+Backend: Flask, FastAPI, PostgreSQL/MySQL, Redis, Kafka/RabbitMQ, Elasticsearch
+Testing/Development: Jest, Playwright, Vite/Vitest, Pytest, Git, Webpack, Rollup
+DevOps: Linux, Docker, AWS, GitHub Actions (CI/CD), Prometheus, Kubernetes, Terraform
 ```
