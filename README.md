@@ -58,7 +58,6 @@ I'm an active contributor to the Home Assistant ecosystem, building custom integ
 - **Custom Lovelace Cards** - Building feature-rich UI components for dashboards
 - **Home Assistant Integrations** - Creating sensors and integrations for third-party services
 - **Frigate NVR Ecosystem** - Developing AI-powered classification and license plate recognition tools
-- **Community Resources** - Maintaining [awesome-lovelace-cards](https://github.com/ljmerza/awesome-lovelace-cards), a curated list of Lovelace cards
 
 ## GitHub Stats
 
