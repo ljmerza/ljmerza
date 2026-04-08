@@ -43,6 +43,7 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 |---------|-------------|----------|
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
 | [pihole-checkpoint](https://github.com/pihole-checkpoint/pihole-checkpoint) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
+| [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
 
 ### DevOps & Infrastructure
 
