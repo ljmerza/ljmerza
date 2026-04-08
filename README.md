@@ -60,11 +60,6 @@ I'm an active contributor to the Home Assistant ecosystem, building custom integ
 - **Home Assistant Integrations** - Creating sensors and integrations for third-party services
 - **Frigate NVR Ecosystem** - Developing AI-powered classification and license plate recognition tools
 
-## GitHub Stats
-
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljmerza&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljmerza&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 ## Experience
 
