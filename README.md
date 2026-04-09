@@ -17,7 +17,7 @@ Currently working on B2B software products processing 100k+ events daily using R
 ```
 Languages       │ TypeScript, JavaScript, Python, Go, SQL, HTML, CSS
 Frontend        │ React, Redux, Angular, Tailwind, Storybook
-Backend         │ Flask, FastAPI, NestJS, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch
+Backend         │ Django, FastAPI, NestJS, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch
 Testing         │ Jest, Playwright, React Testing Library, Pytest
 Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Prometheus
 ```
