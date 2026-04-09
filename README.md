@@ -29,7 +29,6 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
-| [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | ![Stars](https://img.shields.io/github/stars/ljmerza/frigate_plate_recognizer?style=flat-square) |
 | [calendar-card](https://github.com/ljmerza/calendar-card) | Google Calendar card for Lovelace UI | ![Stars](https://img.shields.io/github/stars/ljmerza/calendar-card?style=flat-square) |
 | [ha-email-sensor](https://github.com/ljmerza/ha-email-sensor) | Email sensor for tracking numbers from 40+ providers | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-email-sensor?style=flat-square) |
 | [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
@@ -44,6 +43,7 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
 | [pihole-checkpoint](https://github.com/pihole-checkpoint/pihole-checkpoint) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
 | [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
+| [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
 
 ### DevOps & Infrastructure
 
