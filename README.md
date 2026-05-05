@@ -24,7 +24,7 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 
 ## Featured Projects
 
-### Home Assistant Ecosystem
+### [Home Assistant](https://www.home-assistant.io/) Ecosystem
 
 | Project | Description | Stars |
 |---------|-------------|-------|
