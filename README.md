@@ -28,33 +28,33 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [calendar-card](https://github.com/ljmerza/calendar-card) | Google Calendar card for Lovelace UI | ![Stars](https://img.shields.io/github/stars/ljmerza/calendar-card?style=flat-square) |
+| [fitbit-card](https://github.com/ljmerza/fitbit-card) | Fitbit health metrics dashboard card | ![Stars](https://img.shields.io/github/stars/ljmerza/fitbit-card?style=flat-square) |
+| [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
+| [ha-our-groceries](https://github.com/ljmerza/ha-our-groceries) | Our Groceries shopping list integration | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-our-groceries?style=flat-square) |
+| [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card) | Logitech Harmony Hub remote-control card for Lovelace | ![Stars](https://img.shields.io/github/stars/ljmerza/harmony-remote-card?style=flat-square) |
+| [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
+| [soli-temp](https://github.com/ljmerza/soli-temp) | HACS integration exposing soil temperature and moisture sensors via ClearAPI | ![Stars](https://img.shields.io/github/stars/ljmerza/soli-temp?style=flat-square) |
+| [tracking-number-card](https://github.com/ljmerza/tracking-number-card) | Display package tracking information | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-number-card?style=flat-square) |
 | [tracking-numbers](https://github.com/ljmerza/tracking-numbers) | Home Assistant integration that pulls tracking numbers from 40+ shipping providers | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-numbers?style=flat-square) |
 | [utilities_email_tracker](https://github.com/ljmerza/utilities_email_tracker) | Polls IMAP and parses utility-bill emails into a Home Assistant sensor | ![Stars](https://img.shields.io/github/stars/ljmerza/utilities_email_tracker?style=flat-square) |
 | [utilities_email_tracker_card](https://github.com/ljmerza/utilities_email_tracker_card) | Lovelace card for displaying parsed utility-bill emails | ![Stars](https://img.shields.io/github/stars/ljmerza/utilities_email_tracker_card?style=flat-square) |
-| [soli-temp](https://github.com/ljmerza/soli-temp) | HACS integration exposing soil temperature and moisture sensors via ClearAPI | ![Stars](https://img.shields.io/github/stars/ljmerza/soli-temp?style=flat-square) |
-| [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
-| [calendar-card](https://github.com/ljmerza/calendar-card) | Google Calendar card for Lovelace UI | ![Stars](https://img.shields.io/github/stars/ljmerza/calendar-card?style=flat-square) |
-| [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
-| [ha-our-groceries](https://github.com/ljmerza/ha-our-groceries) | Our Groceries shopping list integration | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-our-groceries?style=flat-square) |
-| [tracking-number-card](https://github.com/ljmerza/tracking-number-card) | Display package tracking information | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-number-card?style=flat-square) |
-| [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card) | Logitech Harmony Hub remote-control card for Lovelace | ![Stars](https://img.shields.io/github/stars/ljmerza/harmony-remote-card?style=flat-square) |
-| [fitbit-card](https://github.com/ljmerza/fitbit-card) | Fitbit health metrics dashboard card | ![Stars](https://img.shields.io/github/stars/ljmerza/fitbit-card?style=flat-square) |
 
 ### Open Source Projects I Maintain
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
-| [pihole-checkpoint](https://github.com/pihole-checkpoint/pihole-checkpoint) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
 | [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
+| [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
+| [pihole-checkpoint](https://github.com/pihole-checkpoint/pihole-checkpoint) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
 
 ### DevOps & Infrastructure
 
 | Project | Description |
 |---------|-------------|
-| [snapraid-collector](https://github.com/ljmerza/snapraid-collector) | Prometheus metrics exporter for SnapRAID |
 | [rsync-exporter](https://github.com/ljmerza/rsync-exporter) | Export rsync statistics to Prometheus |
+| [snapraid-collector](https://github.com/ljmerza/snapraid-collector) | Prometheus metrics exporter for SnapRAID |
 
 ## Open Source Contributions
 
