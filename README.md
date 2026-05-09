@@ -34,6 +34,7 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 | [ha-our-groceries](https://github.com/ljmerza/ha-our-groceries) | Our Groceries shopping list integration | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-our-groceries?style=flat-square) |
 | [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card) | Logitech Harmony Hub remote-control card for Lovelace | ![Stars](https://img.shields.io/github/stars/ljmerza/harmony-remote-card?style=flat-square) |
 | [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
+| [orbit-bhyve-ble](https://github.com/ljmerza/orbit-bhyve-ble) | Home Assistant integration for local BLE control of Orbit B-Hyve sprinkler timers — cloud-free after setup | ![Stars](https://img.shields.io/github/stars/ljmerza/orbit-bhyve-ble?style=flat-square) |
 | [soil-temp](https://github.com/ljmerza/soil-temp) | HACS integration exposing soil temperature and moisture sensors via ClearAPI | ![Stars](https://img.shields.io/github/stars/ljmerza/soil-temp?style=flat-square) |
 | [tracking-number-card](https://github.com/ljmerza/tracking-number-card) | Display package tracking information | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-number-card?style=flat-square) |
 | [tracking-numbers](https://github.com/ljmerza/tracking-numbers) | Home Assistant integration that pulls tracking numbers from 40+ shipping providers | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-numbers?style=flat-square) |
@@ -48,6 +49,7 @@ Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Promethe
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
 | [pihole-checkpoint](https://github.com/pihole-checkpoint/pihole-checkpoint) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
+| [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs via a brand-agnostic controller interface (UniFi first) | Python |
 
 ### DevOps & Infrastructure
 
