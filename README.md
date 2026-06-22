@@ -69,7 +69,7 @@ I'm an active contributor to the Home Assistant ecosystem, building custom integ
 
 ## Experience
 
-- **Senior Software Engineer** @ Epiq Solutions *(2022 - Present)*
+- **Senior Software Engineer** @ Epiq Solutions *(2022 - 2024)*
   - Full-stack development with React, TypeScript, Python, and Go
   - Kubernetes cluster management and AWS infrastructure with Terraform
   - Led JavaScript to TypeScript migration and modernized build tooling
