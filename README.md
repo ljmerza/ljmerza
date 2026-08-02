@@ -85,3 +85,9 @@ I'm an active contributor to the Home Assistant ecosystem, building custom integ
 ## Education
 
 **B.S. Electrical Engineering** - University of South Carolina
+
+---
+
+Enjoy my work? Help me out for a couple of :beers: or a :coffee:!
+
+<a href="https://www.buymeacoffee.com/JMISm06AD"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
