@@ -2,9 +2,12 @@
 
 **Senior Software Engineer** | Raleigh, NC
 
-[![Website](https://img.shields.io/badge/Website-lmerza.com-blue?style=flat-square)](https://lmerza.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ljmerza-181717?style=flat-square&logo=github)](https://github.com/ljmerza)
-[![Email](https://img.shields.io/badge/Email-ljmerza%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ljmerza@gmail.com)
+[![Website](https://img.shields.io/badge/Website-lmerza.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lmerza.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ljmerza-181717?style=for-the-badge&logo=github)](https://github.com/ljmerza)
+[![Email](https://img.shields.io/badge/Email-ljmerza%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljmerza@gmail.com)
+[![Followers](https://img.shields.io/github/followers/ljmerza?style=for-the-badge&label=Followers&color=orange)](https://github.com/ljmerza?tab=followers)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/JMISm06AD)
 
 ## About Me
 
@@ -85,9 +88,3 @@ I'm an active contributor to the Home Assistant ecosystem, building custom integ
 ## Education
 
 **B.S. Electrical Engineering** - University of South Carolina
-
----
-
-Enjoy my work? Help me out for a couple of :beers: or a :coffee:!
-
-<a href="https://www.buymeacoffee.com/JMISm06AD"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
