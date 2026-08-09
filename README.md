@@ -11,18 +11,23 @@
 
 ## About Me
 
-Full-stack engineer with 10+ years of experience building scalable web applications and distributed systems. I specialize in React, TypeScript, and Python, with deep expertise in cloud infrastructure and DevOps practices. Passionate about home automation and open-source contributions to the Home Assistant ecosystem.
+Backend engineer with 10+ years building distributed, asynchronous systems — mostly Python, plus Go and Java. My work lives on the server side: event pipelines, task queues, cache layers, and the concurrency and backpressure controls that keep them correct under load.
 
-Currently working on B2B software products processing 100k+ events daily using React, Python, and Kubernetes on AWS.
+Currently building B2B backend services for a network of RF sensors processing 100k+ events per day, running on ECS and EKS with Terraform on AWS. Day to day that means asyncio and FastAPI services, Celery workers on SQS with retry and dead-letter queues, Kafka consumers, Redis as the caching layer, DynamoDB for high-write access patterns, and Elasticsearch for search and event indexing over that volume.
+
+I spent a good chunk of those years in React and TypeScript, so I can own a feature end to end — but the problems I go looking for are distributed ones. Outside of work I contribute to the Home Assistant ecosystem and run a self-hosted home lab.
 
 ## Tech Stack
 
 ```
-Languages       │ TypeScript, JavaScript, Python, Go, SQL, HTML, CSS
-Frontend        │ React, Redux, Angular, Tailwind, Storybook
-Backend         │ Django, FastAPI, NestJS, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch
-Testing         │ Jest, Playwright, React Testing Library, Pytest
-Infrastructure  │ Docker, Kubernetes, AWS, Terraform, GitHub Actions, Prometheus
+Languages           │ Python, Go, TypeScript, Java, SQL
+Distributed & Async │ asyncio, Celery, AWS SQS, Kafka
+Caching & Search    │ Redis, Elasticsearch
+Data Stores         │ PostgreSQL, MySQL, DynamoDB
+Services & APIs     │ FastAPI, Django, Flask, NestJS, OpenAPI/Swagger
+Infrastructure      │ Docker, AWS ECS & EKS, Terraform, GitHub Actions, Prometheus
+Testing             │ Pytest, Playwright, Jest, React Testing Library
+Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 ```
 
 ## Featured Projects
