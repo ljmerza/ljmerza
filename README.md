@@ -13,7 +13,7 @@
 
 Backend engineer with 10+ years building distributed, asynchronous systems — mostly Python, plus Go and Java. My work lives on the server side: event pipelines, task queues, cache layers, and the concurrency and backpressure controls that keep them correct under load.
 
-Currently building B2B backend services for a network of RF sensors processing 100k+ events per day, running on ECS and EKS with Terraform on AWS. Day to day that means asyncio and FastAPI services, Celery workers on SQS with retry and dead-letter queues, Kafka consumers, Redis as the caching layer, DynamoDB for high-write access patterns, and Elasticsearch for search and event indexing over that volume.
+Currently building B2B backend services for a network of RF sensors processing 100k+ events per day, running on ECS and EKS with Terraform on AWS. Day to day that means asyncio and FastAPI services, Celery workers on SQS with retry and dead-letter queues, Kafka consumers, Redis/Valkey and Memcached as the caching layers, DynamoDB for high-write access patterns, and Elasticsearch/OpenSearch for search and event indexing over that volume.
 
 I spent a good chunk of those years in React and TypeScript, so I can own a feature end to end — but the problems I go looking for are distributed ones. Outside of work I contribute to the Home Assistant ecosystem and run a self-hosted home lab.
 
@@ -22,8 +22,8 @@ I spent a good chunk of those years in React and TypeScript, so I can own a feat
 ```
 Languages           │ Python, Go, TypeScript, Java, SQL
 Distributed & Async │ asyncio, Celery, AWS SQS, Kafka
-Caching & Search    │ Redis, Elasticsearch
-Data Stores         │ PostgreSQL, MySQL, DynamoDB
+Caching & Search    │ Redis/Valkey, Memcached, Elasticsearch/OpenSearch
+Data Stores         │ PostgreSQL, MySQL, DynamoDB, InfluxDB
 Services & APIs     │ FastAPI, Django, Flask, NestJS, OpenAPI/Swagger
 Infrastructure      │ Docker, AWS ECS & EKS, Terraform, GitHub Actions, Prometheus
 Testing             │ Pytest, Playwright, Jest, React Testing Library
