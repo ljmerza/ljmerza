@@ -57,6 +57,7 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 | [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
+| [nodered-mcp](https://github.com/ljmerza/nodered-mcp) | MCP server for reading, querying, and editing a Node-RED flows.json — canvas-aware, with a layout gate that refuses edits which would collide with existing nodes or groups | Python |
 | [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs via a brand-agnostic controller interface (UniFi first) | Python |
 
 ### DevOps & Infrastructure
