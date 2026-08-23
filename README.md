@@ -36,6 +36,7 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [ac-infinity-airtap-ble](https://github.com/ljmerza/ac-infinity-airtap-ble) | Home Assistant integration for local BLE control of AC Infinity AirTap register vents — fan speed and temperature, no vendor cloud | ![Stars](https://img.shields.io/github/stars/ljmerza/ac-infinity-airtap-ble?style=flat-square) |
 | [calendar-card](https://github.com/ljmerza/calendar-card) | Google Calendar card for Lovelace UI (archived) | ![Stars](https://img.shields.io/github/stars/ljmerza/calendar-card?style=flat-square) |
 | [fitbit-card](https://github.com/ljmerza/fitbit-card) | Fitbit health metrics dashboard card | ![Stars](https://img.shields.io/github/stars/ljmerza/fitbit-card?style=flat-square) |
 | [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
