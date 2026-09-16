@@ -11,11 +11,11 @@
 
 ## About Me
 
-Backend engineer with 10+ years building distributed, asynchronous systems — mostly Python, plus Go and Java. My work lives on the server side: event pipelines, task queues, cache layers, and the concurrency and backpressure controls that keep them correct under load.
+Backend engineer with 10+ years building distributed, asynchronous systems, mostly in Python with some Go and Java. I work on the server side: event pipelines, task queues, cache layers, and the concurrency and backpressure controls that keep them correct under load.
 
-Currently building B2B backend services for a network of RF sensors processing 100k+ events per day, running on ECS and EKS with Terraform on AWS. Day to day that means asyncio and FastAPI services, Celery workers on SQS with retry and dead-letter queues, Kafka consumers, Redis/Valkey and Memcached as the caching layers, DynamoDB for high-write access patterns, and Elasticsearch/OpenSearch for search and event indexing over that volume.
+Right now I build B2B backend services for a network of RF sensors that produces 100k+ events a day, running on ECS and EKS with Terraform on AWS. Day to day that means asyncio and FastAPI services, Celery workers on SQS with retry and dead-letter queues, Kafka consumers, Redis/Valkey and Memcached for caching, DynamoDB for high-write access patterns, and Elasticsearch/OpenSearch for search and event indexing at that volume.
 
-I spent a good chunk of those years in React and TypeScript, so I can own a feature end to end — but the problems I go looking for are distributed ones. Outside of work I contribute to the Home Assistant ecosystem and run a self-hosted home lab.
+I spent a good chunk of those years in React and TypeScript, so I can own a feature end to end. The problems I go looking for are the distributed ones, though. Outside of work I write Home Assistant integrations and cards and run a self-hosted home lab.
 
 ## Tech Stack
 
@@ -36,15 +36,15 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [ac-infinity-airtap-ble](https://github.com/ljmerza/ac-infinity-airtap-ble) | Home Assistant integration for local BLE control of AC Infinity AirTap register vents — fan speed and temperature, no vendor cloud | ![Stars](https://img.shields.io/github/stars/ljmerza/ac-infinity-airtap-ble?style=flat-square) |
+| [ac-infinity-airtap-ble](https://github.com/ljmerza/ac-infinity-airtap-ble) | Local BLE control of AC Infinity AirTap register vents from Home Assistant. Sets fan speed and temperature without the vendor cloud | ![Stars](https://img.shields.io/github/stars/ljmerza/ac-infinity-airtap-ble?style=flat-square) |
 | [calendar-card](https://github.com/ljmerza/calendar-card) | Google Calendar card for Lovelace UI (archived) | ![Stars](https://img.shields.io/github/stars/ljmerza/calendar-card?style=flat-square) |
 | [fitbit-card](https://github.com/ljmerza/fitbit-card) | Fitbit health metrics dashboard card | ![Stars](https://img.shields.io/github/stars/ljmerza/fitbit-card?style=flat-square) |
-| [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
+| [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | Dog breed and bird species classification for Frigate detections | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
 | [ha-our-groceries](https://github.com/ljmerza/ha-our-groceries) | Our Groceries shopping list integration (archived) | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-our-groceries?style=flat-square) |
 | [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card) | Logitech Harmony Hub remote-control card for Lovelace | ![Stars](https://img.shields.io/github/stars/ljmerza/harmony-remote-card?style=flat-square) |
-| [irrigation_manager](https://github.com/ljmerza/irrigation_manager) | Home Assistant integration for scheduled watering of valve and switch entities with rain, forecast, temperature, wind, moisture and occupancy conditions, plus a sidebar panel | ![Stars](https://img.shields.io/github/stars/ljmerza/irrigation_manager?style=flat-square) |
-| [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
-| [orbit-bhyve-ble](https://github.com/ljmerza/orbit-bhyve-ble) | Home Assistant integration for local BLE control of Orbit B-Hyve sprinkler timers — cloud-free after setup | ![Stars](https://img.shields.io/github/stars/ljmerza/orbit-bhyve-ble?style=flat-square) |
+| [irrigation_manager](https://github.com/ljmerza/irrigation_manager) | Scheduled watering for valve and switch entities in Home Assistant. Conditions on rain, forecast, temperature, wind, moisture and occupancy, plus a sidebar panel | ![Stars](https://img.shields.io/github/stars/ljmerza/irrigation_manager?style=flat-square) |
+| [light-entity-card](https://github.com/ljmerza/light-entity-card) | Card for controlling any light or switch entity | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
+| [orbit-bhyve-ble](https://github.com/ljmerza/orbit-bhyve-ble) | Local BLE control of Orbit B-Hyve sprinkler timers from Home Assistant. Works without the cloud after setup | ![Stars](https://img.shields.io/github/stars/ljmerza/orbit-bhyve-ble?style=flat-square) |
 | [soil-temp](https://github.com/ljmerza/soil-temp) | HACS integration exposing soil temperature and moisture sensors via ClearAPI | ![Stars](https://img.shields.io/github/stars/ljmerza/soil-temp?style=flat-square) |
 | [tracking-number-card](https://github.com/ljmerza/tracking-number-card) | Display package tracking information | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-number-card?style=flat-square) |
 | [tracking-numbers](https://github.com/ljmerza/tracking-numbers) | Home Assistant integration that pulls tracking numbers from 40+ shipping providers | ![Stars](https://img.shields.io/github/stars/ljmerza/tracking-numbers?style=flat-square) |
@@ -55,15 +55,15 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [billy-bass](https://github.com/ljmerza/billy-bass) | Sound-reactive Big Mouth Billy Bass on an Arduino Uno and Adafruit Motor Shield v2 — mouth, head, and tail driven from a microphone module | C++ |
+| [billy-bass](https://github.com/ljmerza/billy-bass) | Sound-reactive Big Mouth Billy Bass on an Arduino Uno and Adafruit Motor Shield v2. A microphone module drives the mouth, head, and tail | C++ |
 | [checkpoint-pihole](https://github.com/checkpoint-pihole/checkpoint-pihole) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
-| [cradlewise-rtsp-bridge](https://github.com/ljmerza/cradlewise-rtsp-bridge) | Re-publishes every Cradlewise Smart Crib on an account as a local RTSP stream for Frigate, Blue Iris, Scrypted, or any NVR — one always-on WebRTC subscriber per crib feeding mediamtx | Python |
-| [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
+| [cradlewise-rtsp-bridge](https://github.com/ljmerza/cradlewise-rtsp-bridge) | Turns every Cradlewise Smart Crib on an account into a local RTSP stream for Frigate, Blue Iris, Scrypted, or any other NVR. Holds one WebRTC subscriber per crib and feeds it into mediamtx | Python |
+| [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files, with scheduled backups, visual diffs, multi-instance support, and notifications | Python |
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
-| [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
-| [nodered-mcp](https://github.com/ljmerza/nodered-mcp) | MCP server for reading, querying, and editing a Node-RED flows.json — canvas-aware, with a layout gate that refuses edits which would collide with existing nodes or groups | Python |
-| [unifi_firmware](https://github.com/ljmerza/unifi_firmware) | Weekly scraper and web UI tracking UniFi firmware releases — hits the download JSON backend directly, groups releases by device, SQLite-backed | Python |
-| [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs via a brand-agnostic controller interface (UniFi first) | Python |
+| [latchpoint](https://github.com/latchpoint/latchpoint) | Self-hosted alarm system that integrates with Home Assistant, MQTT, Z-Wave JS, and Frigate. Includes a rules engine for automated responses and live status updates | Python |
+| [nodered-mcp](https://github.com/ljmerza/nodered-mcp) | MCP server for reading, querying, and editing a Node-RED flows.json. Canvas aware, with a layout gate that refuses edits that would collide with existing nodes or groups | Python |
+| [unifi_firmware](https://github.com/ljmerza/unifi_firmware) | Weekly scraper and web UI for UniFi firmware releases. Reads the download JSON backend directly, groups releases by device, and stores everything in SQLite | Python |
+| [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs through a brand-agnostic controller interface, UniFi first | Python |
 
 ### DevOps & Infrastructure
 
@@ -74,11 +74,7 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 
 ## Open Source Contributions
 
-I'm an active contributor to the Home Assistant ecosystem, building custom integrations, Lovelace cards, and tools that extend the platform's capabilities. My contributions focus on:
-
-- **Custom Lovelace Cards** - Building feature-rich UI components for dashboards
-- **Home Assistant Integrations** - Creating sensors and integrations for third-party services
-- **Frigate NVR Ecosystem** - Developing AI-powered classification and license plate recognition tools
+Most of my open source work is in the Home Assistant ecosystem. That includes integrations for third-party services, Lovelace cards for dashboards, and a few tools around Frigate NVR for license plate recognition and object classification.
 
 
 ## Experience
