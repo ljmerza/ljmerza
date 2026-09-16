@@ -42,6 +42,7 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 | [FrigateClassifier](https://github.com/ljmerza/FrigateClassifier) | AI-powered dog breed and bird species classification | ![Stars](https://img.shields.io/github/stars/ljmerza/FrigateClassifier?style=flat-square) |
 | [ha-our-groceries](https://github.com/ljmerza/ha-our-groceries) | Our Groceries shopping list integration (archived) | ![Stars](https://img.shields.io/github/stars/ljmerza/ha-our-groceries?style=flat-square) |
 | [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card) | Logitech Harmony Hub remote-control card for Lovelace | ![Stars](https://img.shields.io/github/stars/ljmerza/harmony-remote-card?style=flat-square) |
+| [irrigation_manager](https://github.com/ljmerza/irrigation_manager) | Home Assistant integration for scheduled watering of valve and switch entities with rain, forecast, temperature, wind, moisture and occupancy conditions, plus a sidebar panel | ![Stars](https://img.shields.io/github/stars/ljmerza/irrigation_manager?style=flat-square) |
 | [light-entity-card](https://github.com/ljmerza/light-entity-card) | Control any light or switch entity with a beautiful UI | ![Stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat-square) |
 | [orbit-bhyve-ble](https://github.com/ljmerza/orbit-bhyve-ble) | Home Assistant integration for local BLE control of Orbit B-Hyve sprinkler timers — cloud-free after setup | ![Stars](https://img.shields.io/github/stars/ljmerza/orbit-bhyve-ble?style=flat-square) |
 | [soil-temp](https://github.com/ljmerza/soil-temp) | HACS integration exposing soil temperature and moisture sensors via ClearAPI | ![Stars](https://img.shields.io/github/stars/ljmerza/soil-temp?style=flat-square) |
@@ -54,11 +55,14 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [billy-bass](https://github.com/ljmerza/billy-bass) | Sound-reactive Big Mouth Billy Bass on an Arduino Uno and Adafruit Motor Shield v2 — mouth, head, and tail driven from a microphone module | C++ |
 | [checkpoint-pihole](https://github.com/checkpoint-pihole/checkpoint-pihole) | Web application for backing up Pi-hole v6 instances via the Teleporter API | Python |
+| [cradlewise-rtsp-bridge](https://github.com/ljmerza/cradlewise-rtsp-bridge) | Re-publishes every Cradlewise Smart Crib on an account as a local RTSP stream for Frigate, Blue Iris, Scrypted, or any NVR — one always-on WebRTC subscriber per crib feeding mediamtx | Python |
 | [FlowHistory](https://github.com/FlowHistory/FlowHistory) | Backup and restore tool for Node-RED flow files — scheduled backups, visual diffs, multi-instance support, and notifications | Python |
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Modern, self-hosted alarm system integrating with Home Assistant, MQTT, Z-Wave JS, and Frigate. Features a powerful rules engine for automated responses and real-time status updates. | Python |
 | [nodered-mcp](https://github.com/ljmerza/nodered-mcp) | MCP server for reading, querying, and editing a Node-RED flows.json — canvas-aware, with a layout gate that refuses edits which would collide with existing nodes or groups | Python |
+| [unifi_firmware](https://github.com/ljmerza/unifi_firmware) | Weekly scraper and web UI tracking UniFi firmware releases — hits the download JSON backend directly, groups releases by device, SQLite-backed | Python |
 | [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs via a brand-agnostic controller interface (UniFi first) | Python |
 
 ### DevOps & Infrastructure
