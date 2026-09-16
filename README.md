@@ -62,6 +62,7 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 | [frigate_plate_recognizer](https://github.com/ljmerza/frigate_plate_recognizer) | License plate recognition integration for Frigate NVR | Python |
 | [latchpoint](https://github.com/latchpoint/latchpoint) | Self-hosted alarm system that integrates with Home Assistant, MQTT, Z-Wave JS, and Frigate. Includes a rules engine for automated responses and live status updates | Python |
 | [nodered-mcp](https://github.com/ljmerza/nodered-mcp) | MCP server for reading, querying, and editing a Node-RED flows.json. Canvas aware, with a layout gate that refuses edits that would collide with existing nodes or groups | Python |
+| [py-our-groceries](https://github.com/ljmerza/py-our-groceries) | Unofficial async Python client for the Our Groceries shopping list API, published to PyPI as `ourgroceries`. Powers the Home Assistant Our Groceries integration | Python |
 | [unifi_firmware](https://github.com/ljmerza/unifi_firmware) | Weekly scraper and web UI for UniFi firmware releases. Reads the download JSON backend directly, groups releases by device, and stores everything in SQLite | Python |
 | [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs through a brand-agnostic controller interface, UniFi first | Python |
 
