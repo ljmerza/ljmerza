@@ -67,6 +67,12 @@ Frontend            │ React, Redux, TypeScript, Angular, Tailwind, Storybook
 | [unifi_firmware](https://github.com/ljmerza/unifi_firmware) | Weekly scraper and web UI for UniFi firmware releases. Reads the download JSON backend directly, groups releases by device, and stores everything in SQLite | Python |
 | [wifi-shepard](https://github.com/ljmerza/wifi-shepard) | Docker daemon that watches a wireless network and re-roams misbehaving 2.4 GHz IoT clients across APs through a brand-agnostic controller interface, UniFi first | Python |
 
+### Claude Code Plugins
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [prompt-spellcheck](https://github.com/ljmerza/prompt-spellcheck) | Claude Code plugin that fixes spelling and typos in each typed prompt with Haiku before the model reads it. Leaves code, paths and commands alone, and toggles with `/spellcheck on\|off` | TypeScript |
+
 ### DevOps & Infrastructure
 
 | Project | Description |
